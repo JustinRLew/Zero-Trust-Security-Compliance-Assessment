@@ -46,7 +46,7 @@ The assessment is conducted in **five** key steps:
 ### **5. Generate Compliance Reports**
 Deliverables include:
 - **Zero Trust Compliance Checklist** (Excel/Google Sheet).
-- **Executive Summary** 📄 (PDF/Presentation).
+- **Executive Summary** (PDF/Presentation).
 - **Security Recommendations Roadmap**
 
 ---
