@@ -3,7 +3,7 @@
 ## Project Overview  
 This project conducts a **Zero Trust Security Compliance Assessment** for a fictional company, **ABC Corp**. The goal is to evaluate the organization’s security posture, identify compliance gaps, and provide recommendations to align with **Zero Trust Architecture (ZTA)** as defined by **NIST 800-207**.
 
-## 🛡️ Zero Trust Principles Covered
+## Zero Trust Principles Covered
 - **Identity & Access Management (IAM)**
 - **Least Privilege Access Controls**
 - **Network Segmentation**
@@ -45,9 +45,9 @@ The assessment is conducted in **five** key steps:
 
 ### **5. Generate Compliance Reports**
 Deliverables include:
-- **Zero Trust Compliance Checklist** 📋 (Excel/Google Sheet).
+- **Zero Trust Compliance Checklist** (Excel/Google Sheet).
 - **Executive Summary** 📄 (PDF/Presentation).
-- **Security Recommendations Roadmap** 🛣️.
+- **Security Recommendations Roadmap**
 
 ---
 
